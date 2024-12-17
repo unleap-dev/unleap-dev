@@ -12,9 +12,9 @@
         <img src="./images/email-button.png" height="32px" alt="email button" />
     </a>
     <a target="_blank" href="https://www.linkedin.com/company/unleap/">
-        <img src="./images/linkedin-button.png" height="32px" alt="email button" />
+        <img src="./images/linkedin-button.png" height="32px" alt="linkedin button" />
     </a>
-    <a target="_blank" href="https://www.unleap.dev">
+    <a target="_blank" href="https://www.instagram.com/unleap.dev/">
         <img src="./images/ig-button.png" height="32px" alt="ig button" />
     </a>
 </div>
