@@ -1,10 +1,21 @@
 <p align="center">
-    <img src="./unleap-logo.png" width="380px" alt="unleap logo" />
+    <img src="./images/unleap-logo.png" width="320px" alt="unleap logo" />
 </p>
 <h3 align="center">
   Lo mejor para tu presencia online
 </h3>
-
+<div align="center">
+    <a target="_blank" href="https://www.unleap.dev">
+        <img src="./images/web-button.png" height="23px" alt="web button" />
+    </a>
+    <a target="_blank" href="mailto:contact@unleap.dev">
+        <img src="./images/email-button.png" height="23px" alt="email button" />
+    </a>
+    <a target="_blank" href="https://www.unleap.dev">
+        <img src="./images/ig-button.png" height="23px" alt="ig button" />
+    </a>
+</div>
+<br>
 <p>
   Somos una startup especializada en <strong>desarrollo y optimización de sitios web</strong> para empresas que buscan impulsar su posicionamiento digital. Fundada por <i>Sebastián Gulli, Juan Carlos Muñoz y Ariadna López</i>, nuestra misión es llevar a cada proyecto la perfecta combinación de <strong>modernidad y funcionalidad.</strong>
 </p>
