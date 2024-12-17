@@ -6,13 +6,16 @@
 </h3>
 <div align="center">
     <a target="_blank" href="https://www.unleap.dev">
-        <img src="./images/web-button.png" height="23px" alt="web button" />
+        <img src="./images/web-button.png" height="32px" alt="web button" />
     </a>
     <a target="_blank" href="mailto:contact@unleap.dev">
-        <img src="./images/email-button.png" height="23px" alt="email button" />
+        <img src="./images/email-button.png" height="32px" alt="email button" />
+    </a>
+    <a target="_blank" href="https://www.linkedin.com/company/unleap/">
+        <img src="./images/linkedin-button.png" height="32px" alt="email button" />
     </a>
     <a target="_blank" href="https://www.unleap.dev">
-        <img src="./images/ig-button.png" height="23px" alt="ig button" />
+        <img src="./images/ig-button.png" height="32px" alt="ig button" />
     </a>
 </div>
 <br>
