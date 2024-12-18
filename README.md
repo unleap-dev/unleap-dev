@@ -26,5 +26,5 @@
   En unleap, estamos comprometidos a crear soluciones web que potencien la imagen de tu negocio.
 </p>
 <h4 align="center">
-  ¡Da el salto con nosotros!
+  ¡Da el salto con nosotros! 🚀
 </h4>
