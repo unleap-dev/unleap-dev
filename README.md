@@ -20,11 +20,11 @@
 </div>
 <br>
 <p>
-  Somos una startup especializada en <strong>desarrollo y optimización de sitios web</strong> para empresas que buscan impulsar su posicionamiento digital. Fundada por <i>Sebastián Gulli, Juan Carlos Muñoz y Ariadna López</i>, nuestra misión es llevar a cada proyecto la perfecta combinación de <strong>modernidad y funcionalidad.</strong>
+  Somos una startup especializada en <strong>modernización</strong>. En un mundo lleno de webs antiguas, de contenido sin interés y de marcas sin diferenciación, nuestra misión es lograr que tu empresa se vea como <strong>la mejor de todas.</strong>
 </p>
 <p>
-  En unleap, estamos comprometidos a crear soluciones web que potencien la imagen de tu negocio.
+  Somos unleap, lo mejor para tu presencia online.
 </p>
 <h4 align="center">
-  ¡Da el salto con nosotros! 🚀
+  ¡Da el salto! 🚀
 </h4>
