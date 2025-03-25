@@ -1,9 +1,16 @@
 <p align="center">
     <img src="./images/unleap-logo.png" width="320px" alt="unleap logo" />
 </p>
-<h3 align="center">
-  Lo mejor para tu presencia online
-</h3>
+<br>
+<p>
+  Somos una startup especializada en <strong>modernización</strong>. En un mundo lleno de webs antiguas, de contenido sin interés y de marcas sin diferenciación, nuestra misión es lograr que tu empresa se vea como <strong>la mejor de todas.</strong>
+</p>
+<p>
+  Somos unleap, lo mejor para tu presencia online.
+</p>
+<h4 align="center">
+  ¡Da el salto! 🚀
+</h4>
 <div align="center">
     <a target="_blank" href="https://www.unleap.dev">
         <img src="./images/web-button.png" height="32px" alt="web button" />
@@ -18,13 +25,3 @@
         <img src="./images/ig-button.png" height="32px" alt="ig button" />
     </a>
 </div>
-<br>
-<p>
-  Somos una startup especializada en <strong>modernización</strong>. En un mundo lleno de webs antiguas, de contenido sin interés y de marcas sin diferenciación, nuestra misión es lograr que tu empresa se vea como <strong>la mejor de todas.</strong>
-</p>
-<p>
-  Somos unleap, lo mejor para tu presencia online.
-</p>
-<h4 align="center">
-  ¡Da el salto! 🚀
-</h4>
